@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML/CSS
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on that around Web Development/Design
-- 📫 How to reach me https://t.me/Buraskqe
+- 📫 How to reach me https://t.me/Vogelnot
 
 <!---
 taskoindhaus/taskoindhaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
